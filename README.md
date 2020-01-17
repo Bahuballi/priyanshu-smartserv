@@ -1,4 +1,6 @@
 # priyanshu-smartserv
+Name- Priyanshu Raj(BE/15136/16)
+College-BIT PATNA
 important installation
 1)Python 3.5 or greater
 2)python requests module
